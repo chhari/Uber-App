@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\haris\\Desktop\\app\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\haris\\.android\\build-cache\\6d24643c46e49853f23fabce49986e9e36fbf722\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\robpercival\\Desktop\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\Desktop\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\robpercival\\Desktop\\Whatsapp\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\Users\\haris\\Desktop\\app\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\picsinfo2.txt",
+        "source": "C:\\Users\\haris\\Desktop\\app\\Parse-Server-Starter-Project\\ParseStarterProject\\src\\main\\res\\raw\\picsinfo2.txt"
+    },
+    {
+        "merged": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\robpercival\\AndroidStudioProjects\\Uber\\ParseStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.4.0\\res\\raw\\gtm_analytics"
+    }
+]
